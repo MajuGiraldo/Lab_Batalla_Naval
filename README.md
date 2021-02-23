@@ -1,4 +1,4 @@
 # Lab_Batalla_Naval
-#Maria Paula Acero
-#Natalia Mayorga
-#Maria Juliana Giraldo
+Maria Paula Acero
+\nNatalia Mayorga
+\nMaria Juliana Giraldo
